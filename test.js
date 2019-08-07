@@ -16,8 +16,5 @@ var obj = {
 }
 
 var somefn = function(){
-    
-},,,,,,
-var somefn = function(){
-
-};;;;;;;;
+     var test = 1;
+}
