@@ -1,0 +1,728 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"for\tfor test"
+			],
+			[
+				"to",
+				"toc"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "## sublime text power user 练习.js",
+			"settings":
+			{
+				"buffer_size": 568,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "## sublime text power user 练习"
+			}
+		},
+		{
+			"file": "test.html",
+			"settings":
+			{
+				"buffer_size": 165,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "20190219sublime text3快捷键学习.md",
+			"settings":
+			{
+				"buffer_size": 681,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "test.js",
+			"settings":
+			{
+				"buffer_size": 372,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "test.css",
+			"settings":
+			{
+				"buffer_size": 21,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "body{"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pro",
+				"Project: Close"
+			],
+			[
+				"proje",
+				"Project: Close"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pre",
+				"Preferences: Settings"
+			],
+			[
+				"setjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"prefe",
+				"Preferences: Settings"
+			],
+			[
+				"prefesy",
+				"Preferences: Settings – Syntax Specific"
+			],
+			[
+				"setsycss",
+				"Set Syntax: CSS"
+			],
+			[
+				"set css",
+				"Set Syntax: CSS"
+			],
+			[
+				"col",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"preferen",
+				"Preferences: Browse Packages"
+			],
+			[
+				"htm",
+				"HTMLPrettify"
+			],
+			[
+				"origami zo",
+				"Origami: Zoom Current Pane"
+			],
+			[
+				"origamiclone",
+				"Origami: Clone File to Pane Above"
+			],
+			[
+				"orid",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"terminal seu",
+				"Preferences: Terminal Settings – User"
+			],
+			[
+				"sesyjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"rena",
+				"Rename File"
+			],
+			[
+				"tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"sstmkd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"sni",
+				"Snippet: Markdown Image"
+			],
+			[
+				"save eve",
+				"Evernote: Send to Evernote as new note"
+			],
+			[
+				"sav",
+				"Evernote: Send to Evernote as new note"
+			],
+			[
+				"re",
+				"Evernote Settings: Reconfigure Authorization"
+			],
+			[
+				"send",
+				"Evernote: Send to Evernote as new note"
+			],
+			[
+				"sen",
+				"Set Syntax: Evernote Note"
+			],
+			[
+				"sedn",
+				"Evernote: Send to Evernote as new note"
+			],
+			[
+				"confi",
+				"Evernote Settings: Reconfigure Authorization"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"sear",
+				"Evernote: Search Note"
+			],
+			[
+				"sea",
+				"Evernote: Search Note"
+			],
+			[
+				"se",
+				"Evernote: Send to Evernote as new note"
+			],
+			[
+				"conf",
+				"Evernote Settings: Reconfigure Authorization"
+			],
+			[
+				"seach",
+				"Evernote: Search Note"
+			],
+			[
+				"updae",
+				"Evernote: Update Evernote Note"
+			],
+			[
+				"search",
+				"Evernote: Search Note"
+			],
+			[
+				"vie",
+				"Evernote: View Note in Web App"
+			],
+			[
+				"u",
+				"Evernote: Update Evernote Note"
+			],
+			[
+				":upd",
+				"Evernote: Update Evernote Note"
+			],
+			[
+				"pres",
+				"Preferences: Settings"
+			],
+			[
+				"PRE",
+				"Preferences: Settings"
+			],
+			[
+				"setting",
+				"Preferences: Settings – Syntax Specific"
+			],
+			[
+				"p",
+				"Preferences: Settings"
+			],
+			[
+				" set  GFM",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"sy",
+				"Set Syntax: Markdown"
+			],
+			[
+				"updat",
+				"Evernote: Update Evernote Note"
+			],
+			[
+				":set nu",
+				"Preferences: MarkdownEditing Settings – User"
+			],
+			[
+				"open",
+				"Evernote: Open Evernote Note"
+			],
+			[
+				"view",
+				"Evernote: View Note in Web App"
+			],
+			[
+				"update",
+				"Evernote: Update Evernote Note"
+			],
+			[
+				"SEND",
+				"Evernote: Send to Evernote as new note"
+			],
+			[
+				"upda",
+				"Evernote: Update Evernote Note"
+			],
+			[
+				"evernote",
+				"Evernote: Search Note"
+			],
+			[
+				"fold",
+				"MarkdownEditing: Toggle Folding Current Section"
+			],
+			[
+				"ever up",
+				"Evernote: Update Evernote Note"
+			],
+			[
+				"eve",
+				"Evernote: Send to Evernote as new note"
+			],
+			[
+				"evenote:sen",
+				"Evernote: Send to Evernote as new note"
+			],
+			[
+				"evernote:recon",
+				"Evernote Settings: Reconfigure Authorization"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 354.0,
+		"history":
+		[
+			"view.settings().get(\"font_face\")"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/Users/wangbinhui/Desktop/01workPlace/02working/sublimetext3学习/test.sublime-project",
+		"/Users/wangbinhui/Desktop/01workPlace/02working/房屋整理/20190202物品整理(按位置分类)V1.0.xmind",
+		"/Users/wangbinhui/Desktop/01workPlace/02working/sublimetext3学习/## sublime text power user 练习.js",
+		"/Users/wangbinhui/Library/Application Support/Sublime Text 3/Packages/User/snippets/→.sublime-snippet",
+		"/Users/wangbinhui/Library/Application Support/Sublime Text 3/Packages/User/snippets/for.sublime-snippet",
+		"/Users/wangbinhui/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/Default (OSX).sublime-keymap",
+		"/Users/wangbinhui/Desktop/01workPlace/02working/sublimetext3学习/test.js",
+		"/Users/wangbinhui/Library/Application Support/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/Users/wangbinhui/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/Users/wangbinhui/Desktop/01workPlace/02working/个人日志系统/wbh81218.github.io/categories/index.html",
+		"/Users/wangbinhui/Desktop/01workPlace/02working/个人日志系统/CloudCannon/bakery-store-jekyll-template/control.html",
+		"/Users/wangbinhui/aa",
+		"/Users/wangbinhui/Desktop/01workPlace/02working/20190219sublime text3快捷键学习.md",
+		"/Users/wangbinhui/Desktop/01workPlace/02working/Evernote: 账号资料记录.enmd",
+		"/Users/wangbinhui/Library/Application Support/Sublime Text 3/Packages/User/Evernote.sublime-settings",
+		"/Users/wangbinhui/Library/Application Support/Sublime Text 3/Packages/Evernote/Evernote.sublime-settings",
+		"/Users/wangbinhui/Desktop/02review/Evernote: 20190223日志总结.md.enmd",
+		"/Users/wangbinhui/Desktop/02review/每日总结模板.md",
+		"/Users/wangbinhui/Desktop/inbox/每日总结/20190209新习惯清单.md",
+		"/Users/wangbinhui/Desktop/inbox/每日总结/sample.cpp",
+		"/Users/wangbinhui/Desktop/inbox/每日总结/Evernote: 20190209新习惯清单.md",
+		"/Users/wangbinhui/Desktop/inbox/每日学习工作文档/20190219sublime text3快捷键学习",
+		"/Evernote: sublime text3快捷键学习.md",
+		"/Users/wangbinhui/Desktop/inbox/每日学习工作文档/20190219sublime text3快捷键学习.md",
+		"/Users/wangbinhui/Desktop/inbox/每日总结/每日总结.sublime-workspace",
+		"/Users/wangbinhui/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/wangbinhui/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/wangbinhui/Desktop/inbox/每日总结/每日总结模板.md",
+		"/Users/wangbinhui/Library/Application Support/Sublime Text 3/Packages/User/Markdown.sublime-settings",
+		"/Users/wangbinhui/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/wangbinhui/Desktop/inbox/每日总结/Evernote: ceshi.enmd",
+		"/Users/wangbinhui/Desktop/inbox/每日总结/日常杂事记录.md",
+		"/Users/wangbinhui/Desktop/inbox/每日总结/Evernote: 2o0190211日志总结.md",
+		"/Users/wangbinhui/Desktop/inbox/每日总结/Evernote: ceshi22.md",
+		"/Users/wangbinhui/Desktop/inbox/每日总结/Evernote: 2o0190211日志总结.enmd",
+		"/Users/wangbinhui/Desktop/inbox/每日总结/20190210日志总结.md",
+		"/Users/wangbinhui/Desktop/inbox/# 每日总结模板.md",
+		"/Users/wangbinhui/Desktop/inbox/20190209新习惯清单.md",
+		"/Users/wangbinhui/Desktop/inbox/# 20190209新习惯清单.md",
+		"/Users/wangbinhui/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/wangbinhui/Library/Application Support/Sublime Text 3/Packages/User/OmniMarkupPreviewer.sublime-settings",
+		"/Users/wangbinhui/Library/Application Support/Sublime Text 3/Packages/OmniMarkupPreviewer/OmniMarkupPreviewer.sublime-settings",
+		"/Users/wangbinhui/Library/Application Support/Sublime Text 3/Packages/User/Markdown (Standard).sublime-settings",
+		"/Users/wangbinhui/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/Markdown (Standard).sublime-settings",
+		"/Users/wangbinhui/Documents/personalManagement/行动管理/行动管理-inbox/2019.2.6重新制定每日时间安排表.md",
+		"/Users/wangbinhui/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/Default (OSX).sublime-keymap",
+		"/Users/wangbinhui/Library/Application Support/Sublime Text 3/sublimtext3_Oreadme.md",
+		"/Applications/#sublimtext3_readme.md",
+		"/Users/wangbinhui/Library/Application Support/Sublime Text 3/Packages/Evernote/README.md",
+		"/Applications/ceshi.md"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+			"<current file>,<open files>",
+			"<current file>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"wes",
+			"less",
+			"wes",
+			"less",
+			"wes",
+			"less",
+			"wes",
+			"kai",
+			"wes",
+			"we",
+			"wes",
+			"(class|id)=\"food\"",
+			"var",
+			"wes",
+			"console",
+			"^\\n",
+			"store",
+			"wes",
+			"i",
+			" ",
+			"myArr",
+			"lag",
+			"wes",
+			"# 20190221日志总结\n\n### 计划\n\n1. 继续阅读《sublime-text-unofficial-document.pdf》\n\n2. 继续浏览通读[sublimetext3学习资源篇](https://www.jianshu.com/p/d1b9a64e2e37)\n\n3. 根据已阅读资源材料使用思维导图搭建出自己的sublime学习总结框架，并在日后使用过程中不断补充优化；\n\n\n### 当日计划完成情况\n\n### 当日总结\n\n#### 财务总结\n\n##### 问题\n\n1. 。。。。。\n2. 。。。。。\n3. 。。。。。\n\n##### 原因分析\n\n1. 。。。。。\n2. 。。。。。\n3. 。。。。。\n\n##### 解决方案\n\n1. 。。。。。\n2. 。。。。。\n3. 。。。。。\n\n#### 时间总结\n\n##### 问题\n\n1. 。。。。。\n2. 。。。。。\n3. 。。。。。\n\n##### 原因分析\n\n1. 。。。。。\n2. 。。。。。\n3. 。。。。。\n\n##### 解决方案\n\n1. 。。。。。\n2. 。。。。。\n3. 。。。。。\n\n#### 知识管理总结\n\n\n##### 软件下载安装\n\n1. Mac端\n    \n    \n2. IOs端\n\n##### 本地重要文件\n\n##### marginnote3阅读资料+笔记\n\n#### 日常生活习惯总结\n\n##### 问题\n\n1. 。。。。。\n2. 。。。。。\n3. 。。。。。\n\n##### 原因分析\n\n1. 。。。。。\n2. 。。。。。\n3. 。。。。。\n\n##### 解决方案\n\n1. 。。。。。\n2. 。。。。。\n3. 。。。。。\n\n#### 行动总结\n\n##### 问题\n\n1. 。。。。。\n2. 。。。。。\n3. 。。。。。\n\n##### 原因分析\n\n1. 。。。。。\n2. 。。。。。\n3. 。。。。。\n\n##### 解决方案\n\n1. 。。。。。\n2. 。。。。。\n3. 。。。。。\n\n\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"less",
+			"wes",
+			"less",
+			"wes",
+			"less"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "## sublime text power user 练习.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 568,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								200,
+								200
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "javascript",
+							"buffer_scroll_name": "07160a49",
+							"clone_numbers": 0,
+							"force_encoding": "GBK",
+							"history_list_is_closing": true,
+							"in_converting": true,
+							"origin_encoding": "GBK",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"viewport_position":
+							[
+								0.0,
+								0.0
+							]
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "test.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 165,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								165,
+								165
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "html",
+							"buffer_scroll_name": "80d0d4b3",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "20190219sublime text3快捷键学习.md",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 681,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "markdown",
+							"buffer_scroll_name": "2a54cc3e",
+							"syntax": "Packages/MarkdownEditing/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "test.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 372,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								334,
+								334
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "javascript",
+							"buffer_scroll_name": "ed7280d6",
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "test.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 21,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								21,
+								21
+							]
+						],
+						"settings":
+						{
+							"auto_name": "body{",
+							"bs_sintax": "css",
+							"buffer_scroll_name": "f462efcd",
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 157.0
+	},
+	"pinned_build_system": "",
+	"project": "test.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/01workPlace/02working/sublimetext3学习/test.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/01workPlace/04dairy/myDairy/myDairy.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 265.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

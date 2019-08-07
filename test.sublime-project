@@ -1,0 +1,26 @@
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				"*.xmind"
+			],
+			"folder_exclude_patterns":
+			[
+				"html"
+			],
+			"name": "sublime text power user test",
+			"path": ".",
+			"follow_symlinks": true
+		},
+		{
+			"file_include_patterns":
+			[
+				".html"
+			],
+			"name": "html",
+			"path": "html"
+		}
+	]
+}
